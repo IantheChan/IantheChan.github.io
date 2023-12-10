@@ -17,18 +17,18 @@ I welcome the chance to collaborate and engage in meaningful discussions with ex
 
 Publications
 ======
-[Conservative State Value Estimation for Offline Reinforcement Learning](https://neurips.cc/virtual/2023/poster/72661)<br>
+[Conservative State Value Estimation for Offline Reinforcement Learning](https://arxiv.org/pdf/2302.06884.pdf)<br>
 **Liting Chen**, Jie Yan, Zhengdao Shao, Lu Wang, Qingwei Lin, Saravan Rajmohan, Thomas Moscibroda, Dongmei Zhang<br>
 Advances in Neural Information Processing Systems (NeurIPS), 2023
 
 
-
-[Scalable vertiport hub location selection for air taxi operations in a metropolitan region](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1109)<br>
+S
+[Scalable Vertiport Hub Location Selection for Air Taxi Operations in a Metropolitan Region](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1109)<br>
 **Liting Chen**, Sebastian Wandelt , Weibin Dai, Xiaoqian Sun<br>
 INFORMS Journal on Computing, 2022
 
 
-[Solving the batch stochastic bin packing problem in cloud: a chance-constrained optimization approach](https://dl.acm.org/doi/abs/10.1145/3534678.3539334)<br>
+[Solving the Batch Stochastic Bin Packing Problem in Cloud: a Chance-constrained Optimization Approach](https://dl.acm.org/doi/abs/10.1145/3534678.3539334)<br>
 Jie Yan, Yunlei Lu, **Liting Chen**, Si Qin, Yixin Fang, Qingwei Lin, Thomas Moscibroda, Saravan Rajmohan, Dongmei Zhang<br>
 Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022
 
