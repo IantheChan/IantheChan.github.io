@@ -21,8 +21,6 @@ Publications
 **Liting Chen**, Jie Yan, Zhengdao Shao, Lu Wang, Qingwei Lin, Saravan Rajmohan, Thomas Moscibroda, Dongmei Zhang<br>
 Advances in Neural Information Processing Systems (NeurIPS), 2023
 
-
-S
 [Scalable Vertiport Hub Location Selection for Air Taxi Operations in a Metropolitan Region](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1109)<br>
 **Liting Chen**, Sebastian Wandelt , Weibin Dai, Xiaoqian Sun<br>
 INFORMS Journal on Computing, 2022
