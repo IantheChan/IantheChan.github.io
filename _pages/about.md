@@ -17,7 +17,7 @@ I welcome the chance to collaborate and engage in meaningful discussions with ex
 
 Publications
 ======
-[Conservative State Value Estimation for Offline Reinforcement Learning](https://arxiv.org/pdf/2302.06884.pdf)<br>
+[Conservative State Value Estimation for Offline Reinforcement Learning](https://neurips.cc/virtual/2023/poster/72661)<br>
 **Liting Chen**, Jie Yan, Zhengdao Shao, Lu Wang, Qingwei Lin, Saravan Rajmohan, Thomas Moscibroda, Dongmei Zhang<br>
 Advances in Neural Information Processing Systems (NeurIPS), 2023
 
