@@ -66,12 +66,13 @@ Industry Experience
 
 Academic Service
 ======
-Reviewer for NeurIPS2023 and ICLR2024. 
+Reviewer for NeurIPS2023, ICLR2024, and ICML2024
 
 Honors and Awards
 ======
 NeurIPS 2023 Scholar Award<br>
 NeurIPS 2023 Top Reviewer<br>
+Star of tomorrow intern award in Microsoft Research Asia<br>
 National Scholarship (2018-2019)<br>
 National Scholarship (2020-2021)<br>
 1st place in Women’s Powerlifting competition at Beihang University (2022)<br>
