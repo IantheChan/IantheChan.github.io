@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Liting Chen, a first-year Ph.D. student specializing in Operations Management and Retail Management at McGill University supervised by Prof. [Maxime Cohen](https://maxccohen.github.io/) and Prof. [Sentao Miao](https://sites.google.com/umich.edu/sentaomiao/home).
+I'm Liting Chen, a second-year Ph.D. student specializing in Operations Management and Retail Management at McGill University supervised by Prof. [Maxime Cohen](https://maxccohen.github.io/) and Prof. [Sentao Miao](https://sites.google.com/umich.edu/sentaomiao/home).
 
 My academic journey has been focused on pioneering research in intelligent decision-making. At Microsoft Research Asia and Google Cloud, I've applied my expertise in real-world settings, developing big-data solutions. My work encompasses contributions to cloud optimization, network optimization, and the practical application of academic research in industry.
 
