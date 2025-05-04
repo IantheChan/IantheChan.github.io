@@ -119,6 +119,7 @@ author:
 
 # Reading Files
 include:
+  - googlea1c7ca74bb21c065.html
   - .htaccess
   - _pages
   - files
