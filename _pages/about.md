@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm Liting Chen, a second-year Ph.D. student specializing in Operations Management and Retail Management at McGill University supervised by Prof. [Maxime Cohen](https://maxccohen.github.io/) and Prof. [Sentao Miao](https://sites.google.com/umich.edu/sentaomiao/home).
+I'm Liting Chen, a third-year Ph.D. student specializing in Operations Management and Retail Management at McGill University supervised by Prof. [Maxime Cohen](https://maxccohen.github.io/) and Prof. [Sentao Miao](https://sites.google.com/umich.edu/sentaomiao/home).
 
 My academic journey has been focused on pioneering research in intelligent decision-making. At Microsoft Research Asia and Google Cloud, I've applied my expertise in real-world settings, developing big-data solutions. My work encompasses contributions to cloud optimization, network optimization, and the practical application of academic research in industry.
 
 I welcome the chance to collaborate and engage in meaningful discussions with experts in technology and research. Please feel free to contact me if you're interested in exploring collaborative ventures.
 
+Working Papers
+======
+[A/B Testing Under Product Stockouts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5256420)<br>
+**Liting Chen**, Maxime Cohen, Sentao Miao<br>
 
 Publications
 ======
@@ -66,7 +70,7 @@ Industry Experience
 
 Academic Service
 ======
-Reviewer for NeurIPS2023, ICLR2024, and ICML2024
+Reviewer for NeurIPS, ICLR, ICML, and  AAAI.
 
 Honors and Awards
 ======
